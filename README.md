@@ -1,4 +1,4 @@
-# Customer_data_project2
+# Customer_data
 
 
 ## CAPSTONE PROJECT 2: 
