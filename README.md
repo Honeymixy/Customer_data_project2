@@ -113,7 +113,7 @@ group by Canceled
 
 ![image](https://github.com/user-attachments/assets/d993800a-1beb-41ac-9164-eab5fed4c0fd)
 
-### Con
+## Conclusion
 The dashboard analysis reveals critical insights into the subscription service’s customer base, revenue, and subscription dynamics. The service demonstrates a robust performance with a total revenue of 68 million and an average subscription duration of one year. However, the high cancellation rate—nearly 50%—suggests significant room for improvement in customer retention.
 
 The Basic subscription tier is the top revenue generator, indicating that customers are more inclined toward the Basic subscription options. This may present an opportunity to upsell to higher tiers or add value to encourage longer commitment. Regionally, the North experiences higher cancellations(33.39%), highlighting a need for region-specific retention strategies.
